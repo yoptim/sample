@@ -1,2 +1,2 @@
-This is a readme
-a repo for java practice.
+# This is a readme
+## a repo for java practice.
