@@ -5,4 +5,6 @@ package com.example;
  */
 public interface Feature1 {
     void doSth();
+
+    void doAnother();
 }
